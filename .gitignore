@@ -3,4 +3,4 @@
 spider_venv/*
 *.pyc
 .idea/*
-.jpg
+*.jpg
