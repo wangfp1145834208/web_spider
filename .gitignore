@@ -1,0 +1,6 @@
+.ipynb_checkpoints/*
+*.ipynb
+spider_venv/*
+*.pyc
+.idea/*
+.jpg
